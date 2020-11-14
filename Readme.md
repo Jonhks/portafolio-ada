@@ -6,7 +6,7 @@
 
  ***
 
-### Si quieres ver como me quedo puedes darle click a este [enlace](jonhks.github.io/portafolio-ada/.) o puedes hacerlo desde [acá]()
+### Si quieres ver como me quedo puedes darle click a este [enlace](https://jonhks.github.io/portafolio-ada/) o puedes hacerlo desde [acá]()
 
 
 <br>
